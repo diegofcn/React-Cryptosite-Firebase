@@ -1,3 +1,19 @@
+# Crypto Tracker React
+
+![Image](/cryptobase.png)
+
+## Project Overview
+
+Cryptobase is a price tracking website for cryptoassets in the rapidly growing cryptocurrency space. You can Sign Up and save your favourite coins by create a watchlist. You can discover new Crypto Coins and see their properties. HODL :)
+
+
+### Tools I used
+
+ReactJS, CSS, TailwindCSS, Firebase, CoinGecko API
+
+### Live Link
+[Click here](https://crypto-marketcap.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
